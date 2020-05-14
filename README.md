@@ -1,5 +1,7 @@
 # AI Coding Contest in Python
 
+These are the challenges given in IoTIoT.in AI Coding Test for May2020 Skilling Program
+
 ## Challenge-1: Pattern Matching
 
 You have given a string and a pattern. You need find number of occurrences of pattern in the string.
